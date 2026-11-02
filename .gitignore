@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.DS_Store
+
+# Setup tools written before kickoff; they stay out of the repo
+offline-check/
